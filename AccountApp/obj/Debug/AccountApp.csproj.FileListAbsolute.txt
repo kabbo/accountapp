@@ -1,0 +1,9 @@
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\obj\Debug\AccountApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\obj\Debug\AccountApp.AccountUI.resources
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\obj\Debug\AccountApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\AccountApp\AccountApp\obj\Debug\AccountApp.pdb
